@@ -1,0 +1,10 @@
+# custom.list
+# 漏网之鱼之外的
+
+host-keyword, nongxinyin, direct
+host-suffix, xhscdn.com, direct
+host-keyword, xiaohongshu, direct
+host-keyword, aex, proxy
+host-suffix, youth.cn, direct
+host-suffix, iok.la, direct
+host-suffix, mi.com, direct
